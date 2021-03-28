@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+Sitemap: https://rohit-patel.github.io/sitemap.xml
 Host: https://rohit-patel.github.io
